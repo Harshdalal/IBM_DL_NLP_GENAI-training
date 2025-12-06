@@ -4,7 +4,11 @@
 
 google colab : https://colab.google/
 
+Hugging Face :  https://huggingface.co/
+
 gemini API key : https://aistudio.google.com/app/api-keys
+
+VS code :  https://code.visualstudio.com/
 
 # google models
 ```

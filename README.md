@@ -1,5 +1,7 @@
 # IBM_DL_NLP_GENAI-training
 
+# External support
+
 google colab : https://colab.google/
 
 gemini API key : https://aistudio.google.com/app/api-keys

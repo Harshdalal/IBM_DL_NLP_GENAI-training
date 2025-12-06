@@ -1,5 +1,9 @@
 # IBM_DL_NLP_GENAI-training
 
+Deep learning Playground :: https://playground.tensorflow.org/
+
+CNN playground :: https://deeplizard.com/resource/pavq7noze2
+
 # External support
 
 google colab : https://colab.google/
@@ -24,3 +28,6 @@ Model code: gemini-2.0-flash-001
 Gemini 2.0 Flash-Lite: This streamlined, ultra-efficient second-generation model is faster and more cost-effective than its 1.5 predecessor.
 Model code: gemini-2.0-flash-lite-001
 ```
+# agent framework
+
+langchain :: https://www.langchain.com/
